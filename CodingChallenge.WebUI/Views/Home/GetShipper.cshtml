@@ -1,0 +1,32 @@
+﻿@model IEnumerable<CodingChallenge.Domain.SHIPPER>
+
+
+@{
+    ViewBag.Title = "Shipper";
+}
+
+<br />
+<h3>Shipper List</h3>
+<br />
+<table class="table table-striped">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">Shipper Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <a href="@Url.Action("GetShipperShipmentDetail","Home", new { Id = item.shipper_id})"> @item.shipper_name</a>
+                </td>
+            </tr>
+        }
+
+
+    </tbody>
+</table>
+
+
+

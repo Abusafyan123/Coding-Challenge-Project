@@ -1,0 +1,40 @@
+﻿@model IEnumerable<CodingChallenge.Domain.Shipper_Shipment_Details_Result>
+
+
+@{
+    ViewBag.Title = "Shipper Shipment Detail";
+}
+
+<br />
+<h3>Shipper Shipment Detail</h3>
+<br />
+<table class="table table-striped">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">Shipment Id</th>
+            <th scope="col">Shipper Name</th>
+            <th scope="col">Carrier Name</th>
+            <th scope="col">Shipment Description</th>
+            <th scope="col">Shipment Weight</th>
+            <th scope="col">Shipment Rate Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.shipment_id</td>
+                <td>@item.shipper_name</td>
+                <td>@item.carrier_name</td>
+                <td>@item.shipment_description</td>
+                <td>@item.shipment_weight</td>
+                <td>@item.shipment_rate_description</td>
+            </tr>
+        }
+
+
+    </tbody>
+</table>
+
+
+

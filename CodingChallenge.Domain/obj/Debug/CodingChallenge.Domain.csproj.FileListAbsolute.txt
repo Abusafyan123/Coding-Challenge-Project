@@ -1,0 +1,12 @@
+D:\New folder (2)\CodingChallenge\CodingChallenge.Domain\bin\Debug\CodingChallenge.Domain.dll.config
+D:\New folder (2)\CodingChallenge\CodingChallenge.Domain\bin\Debug\CodingChallenge.Domain.dll
+D:\New folder (2)\CodingChallenge\CodingChallenge.Domain\bin\Debug\CodingChallenge.Domain.pdb
+D:\New folder (2)\CodingChallenge\CodingChallenge.Domain\bin\Debug\EntityFramework.dll
+D:\New folder (2)\CodingChallenge\CodingChallenge.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\New folder (2)\CodingChallenge\CodingChallenge.Domain\bin\Debug\EntityFramework.xml
+D:\New folder (2)\CodingChallenge\CodingChallenge.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\New folder (2)\CodingChallenge\CodingChallenge.Domain\obj\Debug\CodingChallenge.Domain.csproj.AssemblyReference.cache
+D:\New folder (2)\CodingChallenge\CodingChallenge.Domain\obj\Debug\CodingChallenge.Domain.csproj.CoreCompileInputs.cache
+D:\New folder (2)\CodingChallenge\CodingChallenge.Domain\obj\Debug\CodingChallenge.Domain.csproj.CopyComplete
+D:\New folder (2)\CodingChallenge\CodingChallenge.Domain\obj\Debug\CodingChallenge.Domain.dll
+D:\New folder (2)\CodingChallenge\CodingChallenge.Domain\obj\Debug\CodingChallenge.Domain.pdb

@@ -1,0 +1,6 @@
+D:\New folder (2)\CodingChallenge\CodingChallenge.ViewModel\bin\Debug\CodingChallenge.ViewModel.dll
+D:\New folder (2)\CodingChallenge\CodingChallenge.ViewModel\bin\Debug\CodingChallenge.ViewModel.pdb
+D:\New folder (2)\CodingChallenge\CodingChallenge.ViewModel\obj\Debug\CodingChallenge.ViewModel.csproj.AssemblyReference.cache
+D:\New folder (2)\CodingChallenge\CodingChallenge.ViewModel\obj\Debug\CodingChallenge.ViewModel.csproj.CoreCompileInputs.cache
+D:\New folder (2)\CodingChallenge\CodingChallenge.ViewModel\obj\Debug\CodingChallenge.ViewModel.dll
+D:\New folder (2)\CodingChallenge\CodingChallenge.ViewModel\obj\Debug\CodingChallenge.ViewModel.pdb

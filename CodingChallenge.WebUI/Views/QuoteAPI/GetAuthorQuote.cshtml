@@ -1,0 +1,46 @@
+﻿@model CodingChallenge.ViewModel.QuoteAuthorViewModel
+
+
+@{
+    ViewBag.Title = "Quote Random";
+}
+
+<br />
+<h3>Quote Author</h3>
+<br />
+<table class="table table-striped">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">Author</th>
+            <th scope="col">Content</th>
+            <th scope="col">Author Slug</th>
+            <th scope="col">Date Added</th>
+            <th scope="col">Date Modified</th>
+            <th scope="col">Tag</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var group in Model.results.GroupBy(x => x.type))
+        {
+            <tr>
+                <td><b>@group.Key</b></td>
+            </tr>
+            foreach (var item in group)
+            {
+                <tr>
+                    <td>@item.author</td>
+                    <td>@item.content</td>
+                    <td>@item.authorSlug</td>
+                    <td>@item.dateAdded</td>
+                    <td>@item.dateModified</td>
+                    <td>@string.Join(",", item.tags)</td>
+                </tr>
+            }
+
+        }
+
+
+    </tbody>
+</table>
+
+

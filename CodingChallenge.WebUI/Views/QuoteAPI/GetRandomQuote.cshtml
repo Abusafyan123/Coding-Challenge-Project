@@ -1,0 +1,39 @@
+﻿@model IEnumerable<CodingChallenge.ViewModel.QuoteRandomViewModel>
+
+
+@{
+    ViewBag.Title = "Quote Random";
+}
+
+<br />
+<h3>Quote Random</h3>
+<br />
+<table class="table table-striped">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">Author</th>
+            <th scope="col">Content</th>
+            <th scope="col">Author Slug</th>
+            <th scope="col">Date Added</th>
+            <th scope="col">Date Modified</th>
+            <th scope="col">Tag</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.author</td>
+                <td>@item.content</td>
+                <td>@item.authorSlug</td>
+                <td>@item.dateAdded</td>
+                <td>@item.dateModified</td>
+                <td>@string.Join(",", item.tags)</td>
+            </tr>
+        }
+
+
+    </tbody>
+</table>
+
+

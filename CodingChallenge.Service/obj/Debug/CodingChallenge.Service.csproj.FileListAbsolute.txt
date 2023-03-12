@@ -1,0 +1,15 @@
+D:\New folder (2)\CodingChallenge\CodingChallenge.Service\bin\Debug\CodingChallenge.Service.dll
+D:\New folder (2)\CodingChallenge\CodingChallenge.Service\bin\Debug\CodingChallenge.Service.pdb
+D:\New folder (2)\CodingChallenge\CodingChallenge.Service\obj\Debug\CodingChallenge.Service.csproj.AssemblyReference.cache
+D:\New folder (2)\CodingChallenge\CodingChallenge.Service\obj\Debug\CodingChallenge.Service.csproj.CoreCompileInputs.cache
+D:\New folder (2)\CodingChallenge\CodingChallenge.Service\obj\Debug\CodingChallenge.Service.dll
+D:\New folder (2)\CodingChallenge\CodingChallenge.Service\obj\Debug\CodingChallenge.Service.pdb
+D:\New folder (2)\CodingChallenge\CodingChallenge.Service\bin\Debug\CodingChallenge.Domain.dll
+D:\New folder (2)\CodingChallenge\CodingChallenge.Service\bin\Debug\CodingChallenge.Repository.dll
+D:\New folder (2)\CodingChallenge\CodingChallenge.Service\bin\Debug\EntityFramework.dll
+D:\New folder (2)\CodingChallenge\CodingChallenge.Service\bin\Debug\CodingChallenge.Domain.pdb
+D:\New folder (2)\CodingChallenge\CodingChallenge.Service\bin\Debug\CodingChallenge.Domain.dll.config
+D:\New folder (2)\CodingChallenge\CodingChallenge.Service\bin\Debug\CodingChallenge.Repository.pdb
+D:\New folder (2)\CodingChallenge\CodingChallenge.Service\bin\Debug\CodingChallenge.Repository.dll.config
+D:\New folder (2)\CodingChallenge\CodingChallenge.Service\bin\Debug\EntityFramework.xml
+D:\New folder (2)\CodingChallenge\CodingChallenge.Service\obj\Debug\CodingChallenge.Service.csproj.CopyComplete

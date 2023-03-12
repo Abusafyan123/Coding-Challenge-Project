@@ -1,0 +1,15 @@
+D:\New folder (2)\CodingChallenge\CodingChallenge.Repository\bin\Debug\CodingChallenge.Repository.dll.config
+D:\New folder (2)\CodingChallenge\CodingChallenge.Repository\bin\Debug\CodingChallenge.Repository.dll
+D:\New folder (2)\CodingChallenge\CodingChallenge.Repository\bin\Debug\CodingChallenge.Repository.pdb
+D:\New folder (2)\CodingChallenge\CodingChallenge.Repository\bin\Debug\CodingChallenge.Domain.dll
+D:\New folder (2)\CodingChallenge\CodingChallenge.Repository\bin\Debug\EntityFramework.dll
+D:\New folder (2)\CodingChallenge\CodingChallenge.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\New folder (2)\CodingChallenge\CodingChallenge.Repository\bin\Debug\CodingChallenge.Domain.pdb
+D:\New folder (2)\CodingChallenge\CodingChallenge.Repository\bin\Debug\CodingChallenge.Domain.dll.config
+D:\New folder (2)\CodingChallenge\CodingChallenge.Repository\bin\Debug\EntityFramework.xml
+D:\New folder (2)\CodingChallenge\CodingChallenge.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\New folder (2)\CodingChallenge\CodingChallenge.Repository\obj\Debug\CodingChallenge.Repository.csproj.AssemblyReference.cache
+D:\New folder (2)\CodingChallenge\CodingChallenge.Repository\obj\Debug\CodingChallenge.Repository.csproj.CoreCompileInputs.cache
+D:\New folder (2)\CodingChallenge\CodingChallenge.Repository\obj\Debug\CodingChallenge.Repository.csproj.CopyComplete
+D:\New folder (2)\CodingChallenge\CodingChallenge.Repository\obj\Debug\CodingChallenge.Repository.dll
+D:\New folder (2)\CodingChallenge\CodingChallenge.Repository\obj\Debug\CodingChallenge.Repository.pdb
